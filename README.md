@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align: center;"> Jogo de Resgate na guerra 🎮 </h1> 
+<h1 style="text-align: center;"> Jogo de Naves 🎮 </h1> 
 
 <h4 style="text-align: center;">Construído com HTML, CSS3, Javascript e Jquery.</h4>
 
